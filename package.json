@@ -1,0 +1,14 @@
+{
+  "name": "atom-gitignore",
+  "main": "./lib/atom-gitignore",
+  "version": "0.0.1",
+  "description": "Atom plugin to make adding files to your .gitignore file much easier.",
+  "keywords": [],
+  "repository": "https://github.com/atom/atom-gitignore",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

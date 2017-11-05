@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    ".tree-view .file": [
+      {
+        "label" : "Add to .gitignore",
+        "command" : "atom-gitignore:add"
+      }
+    ]
+  }
+}
